@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+## Visitor Counter
+  <img src="https://profile-counter.glitch.me/fayynt/count.svg" />
+
+
+
 <!--
 **fayynt/fayynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
