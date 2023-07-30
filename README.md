@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Contact via
-* faynt#1337 @ discord
+* fayynt @ discord
 * fayynt @ twitter
 
 
