@@ -3,6 +3,8 @@
 ## Contact via
 * fayynt @ discord
 * fayynt @ twitter
+* https://faynt.dev/
+* contact@faynt.dev
 
 
 
